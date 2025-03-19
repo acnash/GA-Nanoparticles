@@ -9,7 +9,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "numpy (>=2.2.4,<3.0.0)",
-    "pandas (>=2.2.3,<3.0.0)"
+    "pandas (>=2.2.3,<3.0.0)",
+    "pytest (>=8.3.5,<9.0.0)",
+    "mdanalysis (>=2.9.0,<3.0.0)"
 ]
 
 
