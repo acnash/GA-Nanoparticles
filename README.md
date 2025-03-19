@@ -2,6 +2,8 @@ GA-Nanoparticles
 
 Project Overview
 
+https://docs.google.com/document/d/11qugYA-jNGwEeKigenB-U2z0HpqBTGNBQC6LS3WhIig/edit?usp=sharing
+
 This project explores the integration of Genetic Algorithms (GA) with Molecular Dynamics (MD) simulations to optimize the behavior and properties of nanoparticles embedded in lipid bilayers. By leveraging GA, we aim to efficiently explore the parameter space to identify optimal nanoparticle designs for specific biological or material applications.
 
 Objectives
