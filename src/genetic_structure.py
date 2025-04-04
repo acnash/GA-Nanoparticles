@@ -10,6 +10,8 @@ The data structure that best represents a nanoparticle design might include:
 - Crystallographic Features
 
 """
+import random
+import numpy as np
 
 class NanoParticleGenotype:
     """
